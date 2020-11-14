@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gugi&family=Lato:wght@300&family=Roboto:wght@100&family=Sofia&display=swap');
+
+:root{
+	--primary-color:#e5df45;
+}
+
+h1{
+	color:var(--primary-color);
+}
+
+p{
+	color:var(--primary-color);
+}
